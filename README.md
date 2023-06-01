@@ -27,6 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamshiyekbote&show_icons=true&locale=en" alt="vamshiyekbote" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamshiyekbote&" alt="vamshiyekbote" /></p>
-
-### 📈 My GitHub Contributions
-![snake gif](https://github.com/vamshiyekbote/vamshiyekbote/blob/output/github-contribution-grid-snake.gif)
