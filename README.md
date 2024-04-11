@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **DevSecOps tools and DevOps Concepts**
 
-- 🤝 I’m looking for help with **Cloud Devops**
+- 🤝 I’m looking for help with **Cloud DevOps**
 
 - 💬 Ask me about **AWS, Git, JAVA, Shell Scripting, Linux**
 
-- 📫 How to reach me **weekendhobbies6@gmail.com**
+- 📫 How to reach me **vamshiyekbote1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
